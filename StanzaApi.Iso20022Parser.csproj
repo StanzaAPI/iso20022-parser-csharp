@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>StanzaApi.Iso20022Parser</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Stanza</Authors>
+    <Description>Official zero-dependency, high-speed C# .NET client for ISO 20022 Financial Message Parser &amp; Validator</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://stanzaapi.com/tools/iso20022-parser</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/StanzaAPI/iso20022-parser-csharp</RepositoryUrl>
+    <PackageTags>iso-20022;swift;pacs-008;camt-053;pain-001;sepa-xml;fednow;financial-messaging;banking</PackageTags>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+</Project>
